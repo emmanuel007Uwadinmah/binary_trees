@@ -68,8 +68,9 @@ typedef struct binary_tree_s binary_tree_t;
 
 ## Autor
 
-```Emmanuel Uwadinmah
-   Franklin Akunne
+```
+	Emmanuel Uwadinmah
+   	Franklin Akunne
 ```
 
 </br>
